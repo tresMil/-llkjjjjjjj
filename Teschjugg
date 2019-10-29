@@ -1,0 +1,219 @@
+#EXTM3U
+#EXTINF:-1,HBO
+http://203.207.56.228/live/iptv005.m3u8
+
+#EXTINF:-1,HBO FAMILY
+http://203.207.56.228/live/iptv004.m3u8
+
+#EXTINF:-1,HBO SIGNATURE
+http://203.207.56.228/live/iptv006.m3u8
+
+#EXTINF:-1,FOX ACTION MOVIES
+http://203.207.56.228/live/iptv029.m3u8
+
+#EXTINF:-1,FOX MOVIES
+http://203.207.56.228/live/iptv034.m3u8
+
+#EXTINF:-1,VoD 1
+https://aldirect.hls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1_1200.m3u8
+
+#EXTINF:-1,VoD 2
+https://aldirect.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1_1200.m3u8
+
+#EXTINF:-1,VoD 3
+https://aldirect.hls.huya.com/huyalive/94525224-2460686093-10568566295157014528-2789253848-10057-A-0-1_1200.m3u8
+
+#EXTINF:-1,VoD 4
+https://aldirect.hls.huya.com/huyalive/94525224-2467341872-10597152648291418112-2789274550-10057-A-0-1_1200.m3u8
+
+#EXTINF:-1,VoD 5
+https://aldirect.hls.huya.com/huyalive/29106097-2689406282-11550912026846953472-2789274558-10057-A-0-1_1200.m3u8
+
+#EXTINF:-1,VoD 6
+https://aldirect.hls.huya.com/huyalive/94525224-2460685774-10568564925062447104-2789253840-10057-A-0-1_1200.m3u8
+
+#EXTINF:-1,VoD 7
+https://aldirect.hls.huya.com/huyalive/30765679-2484192604-10669525991145078784-3049003162-10057-A-0-1_1200.m3u8
+
+#EXTINF:-1,VoD 8
+https://ws.streamhls.huya.com/huyalive/94525224-2705821608-11621415315170131968-986759016-10057-A-0-1_1200/playlist.m3u8
+
+#EXTINF:-1,VoD 9
+https://aldirect.hls.huya.com/huyalive/30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1_1200.m3u8
+
+#EXTINF:-1,VoD 10
+https://aldirect.hls.huya.com/huyalive/94525224-2460686034-10568566041753944064-2789274542-10057-A-0-1_1200.m3u8
+
+#EXTINF:-1,VoD 11
+https://aldirect.hls.huya.com/huyalive/29169025-2686221566-11537233775779905536-2789253842-10057-A-1523933708-1_1200.m3u8
+
+#EXTINF:-1,VoD 12
+https://aldirect.hls.huya.com/huyalive/30765679-2554414808-10971128060778119168-3048959636-10057-A-0-1_1200.m3u8
+
+#EXTINF:-1,VoD 13
+https://aldirect.hls.huya.com/huyalive/30765679-2550665260-10955023874743336960-2789253862-10057-A-0-1_1200.m3u8
+
+#EXTINF:-1,VoD 14
+http://aldirect.hls.huya.com/huyalive/29106097-2689454638-11551119714285518848-2847687516-10057-A-0-1_1200.m3u8
+
+#EXTINF:-1,VoD 15
+http://aldirect.hls.huya.com/huyalive/29359996-2689607114-11551774593718943744-2847687530-10057-A-1525492553-1_1200.m3u8
+
+#EXTINF:-1,Cinemax
+http://203.153.218.28:9981/stream/channelid/255605374?ticket=4D1FD81951345C2BE9E1456D3DFA5E82D535A8FA&profile=pass
+
+#EXTINF:-1,Fox Movies
+http://203.153.218.28:9981/stream/channelid/756717990?ticket=D9CDD7DB18E80023C22954FE693F71DB745D5CE7&profile=pass
+
+#EXTINF:-1,HBO Hits
+http://203.153.218.28:9981/stream/channelid/2038175895?ticket=605ECEAD0BAA0EB3D019F3CD951C9C91637D35B2&profile=pass
+
+#EXTINF:-1,Star Movies HD
+http://livecdnh1.tvanywhere.ae:80/hls/star_movies/05.m3u8
+
+#EXTINF:-1,&Flix HD
+http://pockettv.xyz/api/zee.m3u8?c=andflixhd
+
+#EXTINF:-1,&Prive HD
+http://pockettv.xyz/api/zee.m3u8?c=andprivehd
+
+#EXTINF:-1,TV Chosun
+http://live.chosun.gscdn.com/live/tvchosun1.stream/playlist.m3u8
+
+#EXTINF:-1,Xing Kong
+http://218.202.220.2:5000/nn_live.ts?id=STARTV
+
+#EXTINF:-1,Fashion TV
+http://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/chunklist_b1400000_t64NDgwcA==.m3u8
+
+#EXTINF:-1,HOLLYWOOD MOVIES 1
+http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1.m3u8
+
+#EXTINF:-1,HOLLYWOOD MOVIES 2
+http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1.m3u8
+
+#EXTINF:-1,HOLLYWOOD MOVIES 3
+http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1.m3u8
+
+#EXTINF:-1,HOLLYWOOD MOVIES 4
+http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
+
+#EXTINF:-1,HOLLYWOOD MOVIES 5
+http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8
+
+#EXTINF:-1,HOLLYWOOD MOVIES 6
+https://aldirect.hls.huya.com/huyalive/30765679-2554414567-10971127025691000832-3048991638-10057-A-0-1_1200.m3u8
+
+#EXTINF:-1,HOLLYWOOD MOVIES 7
+https://aldirect.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
+
+#EXTINF:-1,HOLLYWOOD MOVIES 8
+https://aldirect.hls.huya.com/huyalive/28466698-2689654156-11551976637570482176-2847699186-10057-A-0-1_1200.m3u8
+
+#EXTINF:-1,Jackie Chan Movies
+http://aldirect.hls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1.m3u8
+
+#EXTINF:-1,Andy Lau Movies
+http://aldirect.hls.huya.com/huyalive/94525224-2467341872-10597152648291418112-2789274550-10057-A-0-1_1200.m3u8
+
+#EXTINF:-1,Stephen Chow Movies
+http://aldirect.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1.m3u8
+
+#EXTINF:-1,Jet Lie Movies
+http://js.hls.huya.com/huyalive/94525224-2460686093-10568566295157014528-2789253848-10057-A-0-1.m3u8
+
+#EXTINF:-1,Cou Yun Fa Movies
+http://aldirect.hls.huya.com/huyalive/94525224-2460685774-10568564925062447104-2789253840-10057-A-0-1_1200.m3u8
+
+#EXTINF:-1,Chinese Ghost Movies 2
+http://aldirect.hls.huya.com/huyalive/94525224-2460686034-10568566041753944064-2789274542-10057-A-0-1_1200.m3u8
+
+#EXTINF:-1,Chinese Movies 1
+http://aldirect.hls.huya.com/huyalive/30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1_1200.m3u8
+
+#EXTINF:-1,Chinese Movies 2
+http://aldirect.hls.huya.com/huyalive/29106097-2689446042-11551082794746642432-2789253870-10057-A-0-1_1200.m3u8
+
+#EXTINF:-1,Chinese Movies 3
+http://aldirect.hls.huya.com/huyalive/29169025-2686220598-11537229618251563008-2847687556-10057-A-1524043048-1_1200.m3u8
+
+#EXTINF:-1,Chinese Movies 4
+https://aldirect.hls.huya.com/huyalive/28466698-2689654432-11551977822981455872-2847687622-10057-A-1525510118-1_1200.m3u8
+
+#EXTINF:-1,Chinese Movies 5
+https://aldirect.hls.huya.com/huyalive/29169025-2686221304-11537232650498473984-2789253854-10057-A-0-1_1200.m3u8
+
+#EXTINF:-1,Claro: TRUTV HD
+http://mylatinotv.com:25461/roberto/roberto/23484
+
+#EXTINF:-1,Claro: FOX PREMIUM FAMILY
+http://mylatinotv.com:25461/roberto/roberto/23487
+
+#EXTINF:-1,Claro: FOX PREMIUM MOVIES
+http://mylatinotv.com:25461/roberto/roberto/23488
+
+#EXTINF:-1,Claro: HBO (W)
+http://mylatinotv.com:25461/roberto/roberto/23491
+
+#EXTINF:-1,Claro: CLARO MUSICA
+http://mylatinotv.com:25461/roberto/roberto/23496
+
+#EXTINF:-1,Claro: AZCORAZON HD
+http://mylatinotv.com:25461/roberto/roberto/23498
+
+#EXTINF:-1,Claro: COMEDY CENTRAL HD
+http://mylatinotv.com:25461/roberto/roberto/23499
+
+#EXTINF:-1,Claro: AMC HD
+http://mylatinotv.com:25461/roberto/roberto/23500
+
+#EXTINF:-1,Claro: ESTUDIO UNIVERSAL
+http://mylatinotv.com:25461/roberto/roberto/23507
+
+#EXTINF:-1,Claro: HBO SIGNATURE HD
+http://mylatinotv.com:25461/roberto/roberto/23508
+
+#EXTINF:-1,Claro: FOX HD
+http://mylatinotv.com:25461/roberto/roberto/23509
+
+#EXTINF:-1,Claro: CINEMA DINAMITA
+http://mylatinotv.com:25461/roberto/roberto/23510
+
+#EXTINF:-1,Claro: MTV HITS
+http://mylatinotv.com:25461/roberto/roberto/23513
+
+#EXTINF:-1,Claro: THE FILM ZONE HD
+http://mylatinotv.com:25461/roberto/roberto/23516
+
+#EXTINF:-1,Claro: MTV HD
+http://mylatinotv.com:25461/roberto/roberto/23517#EXTINF:-1,Claro:
+
+#EXTINF:-1,Claro: TOONCAST
+http://mylatinotv.com:25461/roberto/roberto/23522
+
+#EXTINF:-1,Claro: CANAL UNIVERSAL
+http://mylatinotv.com:25461/roberto/roberto/23523
+
+#EXTINF:-1,Claro: AXN HD
+http://mylatinotv.com:25461/roberto/roberto/23525
+
+#EXTINF:-1,Claro: FOX CINEMA HD
+http://mylatinotv.com:25461/roberto/roberto/23549
+
+#EXTINF:-1,Claro: FOX CLASSICS HD
+http://mylatinotv.com:25461/roberto/roberto/23550
+
+#EXTINF:-1,Claro: DE POR VIDA
+http://mylatinotv.com:25461/roberto/roberto/23551
+
+#EXTINF:-1,Claro: WARNER HD
+http://mylatinotv.com:25461/roberto/roberto/23552
+
+#EXTINF:-1,Claro: FX HD
+http://mylatinotv.com:25461/roberto/roberto/23562
+
+#EXTINF:-1,Claro: HBO FAMILY HD
+http://mylatinotv.com:25461/roberto/roberto/23563#EXTINF:-1,Claro:
+
+#EXTINF:-1,Claro: HBO PLUS HD
+http://mylatinotv.com:25461/roberto/roberto/23595
